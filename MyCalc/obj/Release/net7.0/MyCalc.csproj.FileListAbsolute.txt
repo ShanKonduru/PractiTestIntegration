@@ -1,0 +1,12 @@
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\bin\Release\net7.0\MyCalc.deps.json
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\bin\Release\net7.0\MyCalc.dll
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\bin\Release\net7.0\MyCalc.pdb
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.csproj.AssemblyReference.cache
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.AssemblyInfoInputs.cache
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.AssemblyInfo.cs
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.csproj.CoreCompileInputs.cache
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.dll
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\refint\MyCalc.dll
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\MyCalc.pdb
+C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Release\net7.0\ref\MyCalc.dll
