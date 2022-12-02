@@ -6832,7 +6832,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
-      "projectName": "TestMyCalc",
+      "projectName": "Contoso.08.28.22.001.Test",
       "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
       "packagesPath": "C:\\Users\\e001150\\.nuget\\packages\\",
       "outputPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\obj\\",
