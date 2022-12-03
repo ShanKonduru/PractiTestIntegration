@@ -3,7 +3,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <IsPackable>false</IsPackable>
+    <IsPackable>true</IsPackable>
     <PackageId>Contoso.08.28.22.001.Test</PackageId>
     <Version>1.0.0</Version>
     <Authors>Shan Konduru</Authors>

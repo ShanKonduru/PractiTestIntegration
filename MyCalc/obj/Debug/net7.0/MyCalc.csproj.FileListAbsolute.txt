@@ -10,3 +10,15 @@ C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyC
 C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Debug\net7.0\refint\MyCalc.dll
 C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.pdb
 C:\CodeExamples\VSCodeProjects\PractiTestIntegration\MyCalc\obj\Debug\net7.0\ref\MyCalc.dll
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\bin\Debug\net7.0\MyCalc.deps.json
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\bin\Debug\net7.0\MyCalc.dll
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\bin\Debug\net7.0\MyCalc.pdb
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.csproj.AssemblyReference.cache
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.AssemblyInfoInputs.cache
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.AssemblyInfo.cs
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.csproj.CoreCompileInputs.cache
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.dll
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\refint\MyCalc.dll
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\MyCalc.pdb
+c:\NuGetJfrogIntegration\PractiTestIntegration\MyCalc\obj\Debug\net7.0\ref\MyCalc.dll

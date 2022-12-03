@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\e001150\\.nuget\\packages\\": {}
+    "C:\\Users\\E001150\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+      "projectUniqueName": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
       "projectName": "MyCalc",
-      "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-      "packagesPath": "C:\\Users\\e001150\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\obj\\",
+      "projectPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+      "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
+      "outputPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\e001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
