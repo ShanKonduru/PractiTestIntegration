@@ -4,6 +4,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+        <IsPackable>true</IsPackable>
+    <PackageId>MyCalc.12.04.2022.001</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Shan Konduru</Authors>
+    <Company>ShanOS</Company>
+
   </PropertyGroup>
 
 </Project>

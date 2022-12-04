@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestMyCalc.12.04.2022.001.Test</id>
+    <version>1.0.0</version>
+    <authors>Shan Konduru</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="MyCalc" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CsvHelper" version="30.0.1" exclude="Build,Analyzers" />
+        <dependency id="MSTest.TestAdapter" version="2.2.10" exclude="Build,Analyzers" />
+        <dependency id="MSTest.TestFramework" version="2.2.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NET.Test.Sdk" version="17.3.2" exclude="Build,Analyzers" />
+        <dependency id="coverlet.collector" version="3.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net7.0/testhost.exe" buildAction="Content" />
+      <files include="any/net7.0/testhost.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\NuGetJfrogIntegration\PractiTestIntegration\TestMyCalc\bin\Release\net7.0\TestMyCalc.runtimeconfig.json" target="lib\net7.0\TestMyCalc.runtimeconfig.json" />
+    <file src="C:\NuGetJfrogIntegration\PractiTestIntegration\TestMyCalc\bin\Release\net7.0\TestMyCalc.dll" target="lib\net7.0\TestMyCalc.dll" />
+    <file src="C:\Users\E001150\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.exe" target="content\testhost.exe" />
+    <file src="C:\Users\E001150\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.exe" target="contentFiles\any\net7.0\testhost.exe" />
+    <file src="C:\Users\E001150\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.dll" target="content\testhost.dll" />
+    <file src="C:\Users\E001150\.nuget\packages\microsoft.testplatform.testhost\17.3.2\build\netcoreapp2.1\x64\testhost.dll" target="contentFiles\any\net7.0\testhost.dll" />
+  </files>
+</package>
