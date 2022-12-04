@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tECLfbjTBDCGVbGI2N3WYHFxxViOzshF2U8m00CE9b8+VVY4gYl7I/v4Lsi9/elDcOx9+LfVNqhQ8DFHU67Ijw==",
+  "dgSpecHash": "w3blhw0TijUGtBelT45cHg/pbV5YkZjeDP58ac02i7DkEcjQVKWSQFirMxK2JGIG7Tw0ehd6XR0TIm7rdqCECg==",
   "success": true,
-  "projectFilePath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
+  "projectFilePath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E001150\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\E001150\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
