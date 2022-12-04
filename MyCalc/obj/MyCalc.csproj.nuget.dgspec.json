@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-        "projectName": "MyCalc",
+        "projectName": "MyCalc.12.04.2022.001",
         "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
         "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
@@ -20,7 +20,8 @@
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://shankonduru.jfrog.io/artifactory/api/nuget/v3/shankonduru-nuget": {}
         },
         "frameworks": {
           "net7.0": {

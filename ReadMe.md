@@ -71,3 +71,9 @@ nuget pack .\MyCalc\MyCalc.csproj.nuspec
 
 Generate Nuget packages for TestMyCalc Project
 pack .\TestMyCalc\TestMyCalc.csproj.nuspec
+
+dotnet pack -c release
+
+
+
+nuget sources Add -Name Artifactory -Source https://shankonduru.jfrog.io/artifactory/api/nuget/v3/shankonduru-nuget -username shankonduru@gmail.com -password AKCp8nHPXkEA5DUwSoRSYtoUJkUaBGVDgoZX9gyjdS7CTqvRRAeRMPnzqwWx7sJLjkHnEqVCQ
