@@ -4,7 +4,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>true</IsPackable>
-    <PackageId>Contoso.08.28.22.001.Test</PackageId>
+    <PackageId>TestMyCalc.12.04.2022.001.Test</PackageId>
     <Version>1.0.0</Version>
     <Authors>Shan Konduru</Authors>
     <Company>ShanOS</Company>

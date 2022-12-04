@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {}
+    "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {}
   },
   "projects": {
-    "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
+    "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+        "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
         "projectName": "MyCalc",
-        "projectPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+        "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
+        "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6831,11 +6831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
-      "projectName": "Contoso.08.28.22.001.Test",
-      "projectPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
+      "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
+      "projectName": "TestMyCalc.12.04.2022.001.Test",
+      "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
       "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-      "outputPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\obj\\",
+      "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6850,8 +6850,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
-              "projectPath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj"
+            "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
+              "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj"
             }
           }
         }

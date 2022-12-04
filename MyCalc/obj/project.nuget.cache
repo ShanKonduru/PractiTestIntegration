@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JHic2zbqU3dDSCVUNrNQrqCKDWGyNj/3/PfwCNd4F9d3Dft2K0DdSvWjjepsQyVWiAbAxvD+r66171AiflBsng==",
+  "dgSpecHash": "+rLUl693YXDu8Q85HXOvr9lPXHNWfiy7z7eaK5K1IDKZTave7YyN4ylI3A6BUhUfMMR7GEJJBaE5PIRy3T7qDw==",
   "success": true,
-  "projectFilePath": "c:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+  "projectFilePath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
