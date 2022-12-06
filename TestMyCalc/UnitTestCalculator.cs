@@ -26,7 +26,7 @@ public class UnitTestCalculator
         Assert.AreEqual(30, result, "Add method failed.");
     }
 
-        [TestMethod]
+    [TestMethod]
     [TestCategory("PositiveTest")]
     [TestCategory("Div")]
     [Ignore]
