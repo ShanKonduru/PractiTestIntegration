@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJfZVVx9Q5bAJ+baSvxEq+U6SheI/lvEdg19atOX8QICLLk5RlMCcz4Pz9Y1kJGO1LcVVFpGq+Iac3iIXBWQrQ==",
+  "dgSpecHash": "+LU5Lt2V6Y8FJPxfWeFKEHFQqE/O0oowPFW5LoI4QBzVdBTLhrNkkQUPNnpYHHsV/7sdOkmV3XoAz59ziB4sWA==",
   "success": true,
-  "projectFilePath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+  "projectFilePath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

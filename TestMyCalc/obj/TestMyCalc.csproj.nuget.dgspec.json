@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj": {}
+    "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj": {}
   },
   "projects": {
-    "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
+    "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-        "projectName": "MyCalc",
-        "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-        "packagesPath": "C:\\Users\\e001150\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\obj\\",
+        "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+        "projectName": "MyCalc.12.04.2022.001",
+        "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+        "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
+        "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\e001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://shankonduru.jfrog.io/artifactory/api/nuget/v3/shankonduru-nuget": {}
         },
         "frameworks": {
           "net7.0": {
@@ -57,30 +58,31 @@
         }
       }
     },
-    "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj": {
+    "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
-        "projectName": "Contoso.08.28.22.001.Test",
-        "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
-        "packagesPath": "C:\\Users\\e001150\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\TestMyCalc\\obj\\",
+        "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
+        "projectName": "TestMyCalc.12.04.2022.001.Test",
+        "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\TestMyCalc.csproj",
+        "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
+        "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\TestMyCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\e001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://shankonduru.jfrog.io/artifactory/api/nuget/v3/shankonduru-nuget": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
-                "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj"
+              "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj": {
+                "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj"
               }
             }
           }

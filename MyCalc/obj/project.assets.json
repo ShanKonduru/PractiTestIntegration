@@ -8,25 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\e001150\\.nuget\\packages\\": {}
+    "C:\\Users\\E001150\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-      "projectName": "MyCalc",
-      "projectPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
-      "packagesPath": "C:\\Users\\e001150\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeExamples\\VSCodeProjects\\PractiTestIntegration\\MyCalc\\obj\\",
+      "projectUniqueName": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+      "projectName": "MyCalc.12.04.2022.001",
+      "projectPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\MyCalc.csproj",
+      "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
+      "outputPath": "C:\\NuGetJfrogIntegration\\PractiTestIntegration\\MyCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\e001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://shankonduru.jfrog.io/artifactory/api/nuget/v3/shankonduru-nuget": {}
       },
       "frameworks": {
         "net7.0": {

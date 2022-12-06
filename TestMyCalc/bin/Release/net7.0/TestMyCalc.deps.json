@@ -12,7 +12,7 @@
           "MSTest.TestAdapter": "2.2.10",
           "MSTest.TestFramework": "2.2.10",
           "Microsoft.NET.Test.Sdk": "17.3.2",
-          "MyCalc": "1.0.0",
+          "MyCalc.12.04.2022.001": "1.0.0",
           "coverlet.collector": "3.1.2",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
@@ -1137,7 +1137,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "MyCalc/1.0.0": {
+      "MyCalc.12.04.2022.001/1.0.0": {
         "runtime": {
           "MyCalc.dll": {}
         }
@@ -1830,7 +1830,7 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "MyCalc/1.0.0": {
+    "MyCalc.12.04.2022.001/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
