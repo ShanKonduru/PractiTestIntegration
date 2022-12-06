@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MyCalc/1.0.0": {
+      "MyCalc/2.0.0": {
         "runtime": {
           "MyCalc.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "MyCalc/1.0.0": {
+    "MyCalc/2.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
